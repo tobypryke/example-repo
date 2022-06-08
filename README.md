@@ -12,5 +12,8 @@ Sample Text
 Lorem ipsum,  
 dolor sic amet
 
+## Pasta
+![pic of pasta]
+(https://i1.wp.com/www.sugarlovespices.com/wp-content/uploads/2015/03/pasta.jpg)
 
 
